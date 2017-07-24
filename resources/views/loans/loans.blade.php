@@ -457,7 +457,7 @@
                         'class' => 'col-sm-2 control-label'
                         ]) !!}
                         <div class="col-sm-10">
-                            {!! Form::text('credit_investigator', 'JOVEN J. PIMENTEL', [
+                            {!! Form::text('credit_investigator', null, [
                             'class' => 'form-control'
                             ]) !!}
                         </div>
@@ -468,7 +468,7 @@
                         'class' => 'col-sm-2 control-label'
                         ]) !!}
                         <div class="col-sm-10">
-                            {!! Form::text('manager', 'JOVEN J. PIMENTEL', [
+                            {!! Form::text('manager', null, [
                             'class' => 'form-control'
                             ]) !!}
                         </div>
@@ -479,7 +479,7 @@
                         'class' => 'col-sm-2 control-label'
                         ]) !!}
                         <div class="col-sm-10">
-                            {!! Form::text('approving_signatory', 'BENJAMIN K. PASCUAL', [
+                            {!! Form::text('approving_signatory', null, [
                             'class' => 'form-control'
                             ]) !!}
                         </div>

@@ -7,10 +7,9 @@
                 <li><a href="{{ url("/customers") }}">Customers Mastefile</a></li>
                 <li><a href="{{ url("/banks") }}">Banks Mastefile</a></li>
 
-                <li><a href="{{ url("/collaterals") }}">Chattel Collaterals Masterfile</a></li>
+                <!-- <li><a href="{{ url("/collaterals") }}">Chattel Collaterals Masterfile</a></li>
                 <li><a href="{{ url("/collaterals-rem") }}">REM Collaterals Masterfile</a></li>
-
-                <li><a href="{{ url("/collateral-classes") }}">Collateral Classes</a></li>
+                <li><a href="{{ url("/collateral-classes") }}">Collateral Classes</a></li> -->
                 <!-- <li><a href="#">Something else here</a></li> -->
             </ul>
         </li>
